@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "invatam-sdd", "invatam-sdd\invatam-sdd.vcxproj", "{426CC683-212A-4C2F-871E-F3369E538977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426CC683-212A-4C2F-871E-F3369E538977}.Debug|x64.ActiveCfg = Debug|x64
+		{426CC683-212A-4C2F-871E-F3369E538977}.Debug|x64.Build.0 = Debug|x64
+		{426CC683-212A-4C2F-871E-F3369E538977}.Debug|x86.ActiveCfg = Debug|Win32
+		{426CC683-212A-4C2F-871E-F3369E538977}.Debug|x86.Build.0 = Debug|Win32
+		{426CC683-212A-4C2F-871E-F3369E538977}.Release|x64.ActiveCfg = Release|x64
+		{426CC683-212A-4C2F-871E-F3369E538977}.Release|x64.Build.0 = Release|x64
+		{426CC683-212A-4C2F-871E-F3369E538977}.Release|x86.ActiveCfg = Release|Win32
+		{426CC683-212A-4C2F-871E-F3369E538977}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD05A665-D733-4D31-9432-D206F2B3C348}
+	EndGlobalSection
+EndGlobal

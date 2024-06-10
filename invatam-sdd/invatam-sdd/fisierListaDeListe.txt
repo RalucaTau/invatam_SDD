@@ -1,0 +1,5 @@
+PATISERIE,paine,3
+PATISERIE,croissant,4
+LACTATE,lapte,1
+DULCIURI,nutella,1
+LACTATE,iaurt grecesc,2
